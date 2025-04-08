@@ -1,0 +1,2 @@
+C:\Users\Orange\Desktop\ApiCore\apicore.client\obj\Debug\apicore.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CoreAPITasks\08-04-2025-Task\ApiCore\apicore.client\obj\Debug\apicore.client.esproj.CoreCompileInputs.cache

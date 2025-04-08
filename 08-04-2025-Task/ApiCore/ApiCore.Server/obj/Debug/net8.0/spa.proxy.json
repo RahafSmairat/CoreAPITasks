@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:59034",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\CoreAPITasks\\08-04-2025-Task\\ApiCore\\ApiCore.Server\\..\\apicore.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
