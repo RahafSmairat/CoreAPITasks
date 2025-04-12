@@ -1,0 +1,6 @@
+<h2>Categories</h2>
+<ul style="list-style:none; text-align:left">
+  <li *ngFor="let category of categories">
+    <b>{{ category.id }} - {{ category.categoryName }}</b> : {{category.categoryDesc}}
+  </li>
+</ul>

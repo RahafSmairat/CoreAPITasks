@@ -1,0 +1,6 @@
+<h2>Products</h2>
+<ul style="list-style:none; text-align:left">
+  <li *ngFor="let product of products">
+    <b>{{ product.id }} - {{ product.name }}</b> : {{product.description}}
+  </li>
+</ul>
