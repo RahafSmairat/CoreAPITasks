@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "l2/F26cww5soFqkTmX/nPu7ClwS6l2rqH0e5KKW6ohI=",
+  "Source": "ApiCore.Server",
+  "BasePath": "_content/ApiCore.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\CoreAPITasks\\13-04-2025-Task\\ApiCore\\apicore.client\\apicore.client.esproj",
+      "Version": 2,
+      "Source": "apicore.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
