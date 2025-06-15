@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -47,8 +51,7 @@
               "RelativeToolTip": "ApiCore.Server\\DataService\\CategoryService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:15:10.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T07:15:10.123Z"
             },
             {
               "$type": "Document",
@@ -60,8 +63,7 @@
               "RelativeToolTip": "ApiCore.Server\\DTOs\\UpdateCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:10:01.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T07:10:01.282Z"
             }
           ]
         }
